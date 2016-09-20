@@ -1,0 +1,5 @@
+Hello Professor,
+I am excited to learn Git!
+
+Sincerely,
+Katherine Rosado
